@@ -1,6 +1,7 @@
 package net.dragonatte.maegiteknica;
 
 import com.mojang.logging.LogUtils;
+import net.dragonatte.maegiteknica.item.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -18,6 +19,8 @@ public class MaegyTekhnika {
     private static final Logger LOGGER = LogUtils.getLogger();
     public MaegyTekhnika(){
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.ITEMS.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

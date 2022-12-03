@@ -1,0 +1,22 @@
+{
+  "item.maegytekhnika.energy_crystal": "Energy Crystal",
+  "item.maegytekhnika.energy_crystal.tooltip": "A crystal of energy, it provides energy but can't be recharged.",
+  "item.maegytekhnika.energy_crystal.tooltip2": "Energy level: %s/%s",
+
+  "item.maegytekhnika.energy_crystal_shard": "Energy Shard",
+  "item.maegytekhnika.energy_crystal_shard.tooltip": "A shard of energy, it can be crafted into energy crystals or decrafted into energy fragments.",
+
+  "item.maegytekhnika.energy_crystal_shard_fragment": "Energy Fragment",
+  "item.maegytekhnika.energy_crystal_shard_fragment.tooltip": "A fragment of energy, it can be crafted into energy shards.",
+
+
+  "item.maegytekhnika.mana_crystal": "Mana Crystal",
+  "item.maegytekhnika.mana_crystal.tooltip": "A crystal of mana, it provides mana but can't be recharged.",
+  "item.maegytekhnika.mana_crystal.tooltip2": "Mana level: %s/%s",
+
+  "item.maegytekhnika.mana_crystal_shard": "Mana Shard",
+  "item.maegytekhnika.mana_crystal_shard.tooltip": "A shard of mana, it can be crafted into mana crystals or decrafted into mana fragments.",
+
+  "item.maegytekhnika.mana_crystal_shard_fragment": "Mana Fragment",
+  "item.maegytekhnika.mana_crystal_shard_fragment.tooltip": "A fragment of mana, it is use for crafting mana shards."
+}
