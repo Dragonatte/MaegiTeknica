@@ -1,4 +1,6 @@
 {
+  "itemGroup.natura": "Natura",
+
   "item.maegytekhnika.energy_crystal": "Energy Crystal",
   "item.maegytekhnika.energy_crystal.tooltip": "A crystal of energy, it provides energy but can't be recharged.",
   "item.maegytekhnika.energy_crystal.tooltip2": "Energy level: %s/%s",
