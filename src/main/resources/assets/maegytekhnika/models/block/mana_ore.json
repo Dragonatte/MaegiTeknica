@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-        "all": "maegytekhnika:blocks/mana_ore"
+        "all": "maegytekhnika:block/mana_ore"
     }
 }

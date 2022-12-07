@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "maegytekhnika:block/mana_block"
+    "all": "maegytekhnika:block/deepslate_mana_ore"
   }
 }
