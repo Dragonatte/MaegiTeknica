@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "maegytekhnika:blocks/deepslate_energy_block"
+  }
+}

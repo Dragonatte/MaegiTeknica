@@ -12,18 +12,18 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, MaegyTekhnika.MOD_ID);
 
     public static final RegistryObject<Item> ENERGY_CRYSTAL = ITEMS.register("energy_crystal",
-            ()-> new Item(new Item.Properties().tab(MaegyTekhnikaNaturaTAB.NaturaTAB)));
+            ()-> new Item(new Item.Properties().tab(ModCreativeModeTab.NaturaTAB)));
     public static final RegistryObject<Item> ENERGY_CRYSTAL_SHARD = ITEMS.register("energy_crystal_shard",
-            ()-> new Item(new Item.Properties().tab(MaegyTekhnikaNaturaTAB.NaturaTAB)));
+            ()-> new Item(new Item.Properties().tab(ModCreativeModeTab.NaturaTAB)));
     public static final RegistryObject<Item> ENERGY_CRYSTAL_SHARD_FRAGMENT = ITEMS.register("energy_crystal_shard_fragment",
-            ()-> new Item(new Item.Properties().tab(MaegyTekhnikaNaturaTAB.NaturaTAB)));
+            ()-> new Item(new Item.Properties().tab(ModCreativeModeTab.NaturaTAB)));
 
     public static final RegistryObject<Item> MANA_CRYSTAL = ITEMS.register("mana_crystal",
-            ()-> new Item(new Item.Properties().tab(MaegyTekhnikaNaturaTAB.NaturaTAB)));
+            ()-> new Item(new Item.Properties().tab(ModCreativeModeTab.NaturaTAB)));
     public static final RegistryObject<Item> MANA_CRYSTAL_SHARD = ITEMS.register("mana_crystal_shard",
-            ()-> new Item(new Item.Properties().tab(MaegyTekhnikaNaturaTAB.NaturaTAB)));
+            ()-> new Item(new Item.Properties().tab(ModCreativeModeTab.NaturaTAB)));
     public static final RegistryObject<Item> MANA_CRYSTAL_SHARD_FRAGMENT = ITEMS.register("mana_crystal_shard_fragment",
-            ()-> new Item(new Item.Properties().tab(MaegyTekhnikaNaturaTAB.NaturaTAB)));
+            ()-> new Item(new Item.Properties().tab(ModCreativeModeTab.NaturaTAB)));
 
 
     public static void register( IEventBus eventbus) {

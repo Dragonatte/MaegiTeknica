@@ -1,24 +1,20 @@
 {
   "itemGroup.natura": "Natura",
 
-  "item.maegytekhnika.energy_crystal": "Cristal de energía",
-  "item.maegytekhnika.energy_crystal.tooltip": "Cristal de energía, proporciona enrgía pero no puede ser cargado.",
-  "item.maegytekhnika.energy_crystal.tooltip2":  "Nivel de energía: %s/%s",
+  "block.maegytekhnika.energy_block": "Bloque de Energía",
+  "block.maegytekhnika.energy_ore": "Mena de Energía",
+  "block.maegytekhnika.deepslate_energy_ore": "Mena de Energía de pizarra profunda",
 
-  "item.maegytekhnika.energy_crystal_shard": "Lasca de energía",
-  "item.maegytekhnika.energy_crystal_shard.tooltip": "Una lasca de energía, pueder ser refinada a un cristal de energía o descompuerta en fragmentos de energía.",
-
-  "item.maegytekhnika.energy_crystal_shard_fragment": "Fragmento de energía",
-  "item.maegytekhnika.energy_crystal_shard_fragment.tooltip": "Un fragmento de energía, puede ser refinado a una lasca de energía.",
+  "item.maegytekhnika.energy_crystal": "Cristal de Energía",
+  "item.maegytekhnika.energy_crystal_shard": "Lasca de Energía",
+  "item.maegytekhnika.energy_crystal_shard_fragment": "Fragmento de Energía",
 
 
-  "item.maegytekhnika.mana_crystal": "Cristal de maná",
-  "item.maegytekhnika.mana_crystal.tooltip": "Un cristal de maná, proporciona mana pero no puede ser cargado.",
-  "item.maegytekhnika.mana_crystal.tooltip2": "Nivel de mana: %s/%s",
+  "block.maegytekhnika.mana_block": "Bloque de Maná",
+  "block.maegytekhnika.mana_ore": "Mena de Maná",
+  "block.maegytekhnika.deepslate_mana_ore": "Mena de Maná de pizarra profunda",
 
-  "item.maegytekhnika.mana_crystal_shard": "Lasca de maná",
-  "item.maegytekhnika.mana_crystal_shard.tooltip": "Una lasca de maná, puede ser refinada a un cristal de maná o descompuerta en fragmentos de maná.",
-
-  "item.maegytekhnika.mana_crystal_shard_fragment": "Fragmento de maná",
-  "item.maegytekhnika.mana_crystal_shard_fragment.tooltip": "Un fragmento de maná, puede ser refinado a una lasca de maná."
+  "item.maegytekhnika.mana_crystal": "Cristal de Maná",
+  "item.maegytekhnika.mana_crystal_shard": "Lasca de Maná",
+  "item.maegytekhnika.mana_crystal_shard_fragment": "Fragmento de Maná"
 }
