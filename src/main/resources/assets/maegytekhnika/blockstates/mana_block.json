@@ -1,5 +1,7 @@
 {
-  "variants" : {
-    "": {"model": "maegytekhnika:block/mana_block"}
+  "variants": {
+    "": {
+      "model": "maegytekhnika:block/mana_block"
+    }
   }
 }

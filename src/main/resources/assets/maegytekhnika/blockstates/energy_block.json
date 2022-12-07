@@ -1,5 +1,7 @@
 {
   "variants" : {
-    "": {"model": "maegytekhnika:block/energy_block"}
+    "": {
+      "model": "maegytekhnika:block/energy_block"
+    }
   }
 }

@@ -1,5 +1,7 @@
 {
   "variants":{
-    "": {"model": "maegytekhnika:block/deepslate_mana_ore"}
+    "": {
+      "model": "maegytekhnika:block/deepslate_mana_ore"
+    }
   }
 }
