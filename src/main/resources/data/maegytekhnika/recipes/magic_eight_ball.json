@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "YXY",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ink_sac"
+        },
+        "X": {
+            "item": "maegytekhnika:mana_crystal"
+        },
+        "Y": {
+            "item": "maegytekhnika:energy_crystal_shard"
+        }
+    },
+    "result": {
+        "item": "maegytekhnika:magic_eight_ball",
+        "count": 1
+    }
+}
