@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "maegytekhnika:energy_crystal",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "maegytekhnika:energy_crystal_shard"
+        }
+    },
+    "result": {
+        "item": "maegytekhnika:energy_crystal",
+        "count": 1
+    }
+}

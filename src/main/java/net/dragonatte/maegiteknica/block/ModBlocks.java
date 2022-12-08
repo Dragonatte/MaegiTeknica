@@ -24,21 +24,21 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> ENERGY_ORE = registerBlock("energy_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).
-                    requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.NaturaTAB);
+                    requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.NATURA_TAB);
     public static final RegistryObject<Block> DEEPSLATE_ENERGY_ORE = registerBlock("deepslate_energy_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).
-                    requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.NaturaTAB);
+                    requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.NATURA_TAB);
     public static final RegistryObject<Block> ENERGY_BLOCK = registerBlock("energy_block",
-            () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.NaturaTAB);
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.NATURA_TAB);
 
     public static final RegistryObject<Block> MANA_ORE = registerBlock("mana_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).
-                    requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.NaturaTAB);
+                    requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.NATURA_TAB);
     public static final RegistryObject<Block> DEEPSLATE_MANA_ORE = registerBlock("deepslate_mana_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f).
-                    requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.NaturaTAB);
+                    requiresCorrectToolForDrops(), UniformInt.of(3,7)), ModCreativeModeTab.NATURA_TAB);
     public static final RegistryObject<Block> MANA_BLOCK = registerBlock("mana_block",
-            () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.NaturaTAB);
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.NATURA_TAB);
 
     private static <T extends Block> RegistryObject<T> registerBlock(String  name, Supplier<T> block, CreativeModeTab tab) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

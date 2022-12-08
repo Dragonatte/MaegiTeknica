@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "maegytekhnika:energy_block",
+    "maegytekhnika:energy_ore",
+    "maegytekhnika:deepslate_energy_ore",
+    "maegytekhnika:mana_block",
+    "maegytekhnika:mana_ore",
+    "maegytekhnika:deepslate_mana_ore"
+  ]
+}

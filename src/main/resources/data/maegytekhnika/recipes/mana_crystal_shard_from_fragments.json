@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "maegytekhnika:mana_crystal_shard",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "maegytekhnika:mana_crystal_shard_fragment"
+        }
+    },
+    "result": {
+        "item": "maegytekhnika:mana_crystal_shard",
+        "count": 1
+    }
+}

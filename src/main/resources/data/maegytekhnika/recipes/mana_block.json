@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "maegytekhnika:mana_crystal"
+        }
+    },
+    "result": {
+        "item": "maegytekhnika:mana_block",
+        "count": 1
+    }
+}

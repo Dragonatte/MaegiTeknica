@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "maegytekhnika:energy_crystal",
+  "ingredients": [
+    {
+      "item": "maegytekhnika:energy_block"
+    }
+  ],
+    "result": {
+        "item": "maegytekhnika:energy_crystal",
+        "count": 9
+    }
+}

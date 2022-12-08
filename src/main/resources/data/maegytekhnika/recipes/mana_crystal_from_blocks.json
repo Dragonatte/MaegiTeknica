@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "maegytekhnika:mana_crystal",
+  "ingredients": [
+    {
+      "item": "maegytekhnika:mana_block"
+    }
+  ],
+    "result": {
+        "item": "maegytekhnika:mana_crystal",
+        "count": 9
+    }
+}

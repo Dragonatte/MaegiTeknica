@@ -2,6 +2,8 @@
   "itemGroup.natura": "Natura",
 
   "item.maegytekhnika.energy_crystal": "Energy Crystal",
+  "item.maegytekhnika.energy_crystal_shard": "Energy Shard",
+  "item.maegytekhnika.energy_crystal_shard_fragment": "Energy Fragment",
 
   "block.maegytekhnika.energy_block": "Block of Energy",
   "block.maegytekhnika.energy_ore": "Energy Ore",
@@ -11,15 +13,12 @@
   "block.maegytekhnika.mana_ore": "Mana Ore",
   "block.maegytekhnika.deepslate_mana_ore": "Deepslate Mana Ore",
 
-  "item.maegytekhnika.energy_crystal_shard": "Energy Shard",
-
-  "item.maegytekhnika.energy_crystal_shard_fragment": "Energy Fragment",
-
-
   "item.maegytekhnika.mana_crystal": "Mana Crystal",
-  "item.maegytekhnika.mana_crystal.tooltip": "A crystal of mana, it provides mana but can't be recharged.",
-
   "item.maegytekhnika.mana_crystal_shard": "Mana Shard",
+  "item.maegytekhnika.mana_crystal_shard_fragment": "Mana Fragment",
 
-  "item.maegytekhnika.mana_crystal_shard_fragment": "Mana Fragment"
+
+  "itemGroup.artificia": "Artificia",
+
+  "item.maegytekhnika.magic_eight_ball": "Magic \"Eight\" Ball"
 }

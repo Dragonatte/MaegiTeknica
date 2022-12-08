@@ -16,5 +16,10 @@
 
   "item.maegytekhnika.mana_crystal": "Cristal de Maná",
   "item.maegytekhnika.mana_crystal_shard": "Lasca de Maná",
-  "item.maegytekhnika.mana_crystal_shard_fragment": "Fragmento de Maná"
+  "item.maegytekhnika.mana_crystal_shard_fragment": "Fragmento de Maná",
+
+
+  "itemGroup.artificia": "Artificia",
+
+  "item.maegytekhnika.magic_eight_ball": "Bola \"Ocho\" Mágica"
 }

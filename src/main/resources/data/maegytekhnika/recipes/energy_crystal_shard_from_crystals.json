@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "maegytekhnika:energy_crystal_shard",
+  "ingredients": [
+    {
+      "item": "maegytekhnika:energy_crystal"
+    }
+  ],
+    "result": {
+        "item": "maegytekhnika:energy_crystal_shard",
+        "count": 9
+    }
+}
