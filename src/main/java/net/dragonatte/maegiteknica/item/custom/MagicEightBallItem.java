@@ -24,7 +24,7 @@ public class MagicEightBallItem extends Item {
         return super.use(level, player, hand);
     }
     private void printRandomNumber(Player player) {
-        player.sendSystemMessage(Component.literal("La balla de magia dice: " + getRandomNumber()));
+        player.sendSystemMessage(Component.literal("The magic eight ball says: " + getRandomNumber()));
     }
     private int getRandomNumber() {
         return (int) (Math.random() * 100);
